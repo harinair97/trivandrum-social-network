@@ -7,7 +7,8 @@
     "express": "^4.15.3",
     "cowsay": "^1.1.9",
     "ejs": "^2.5.6",
-    "yosay": "^2.0.0"
+    "yosay": "^2.0.0",
+    "nedb":"^1.8.0"
   },
   "devDependencies": {},
   "scripts": {
